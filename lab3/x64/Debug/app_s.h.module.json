@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\app_s.h.obj",
+            "outputs": [
+                "D:\\Pulpit\\4 sem\\programming in graphical enviromnetal\\PwSG_25L_01193080_WinAPI-Lab2\\lab3\\lab3\\x64\\Debug\\vc143.pdb",
+                "x64\\Debug\\",
+                "D:\\Pulpit\\4 sem\\programming in graphical enviromnetal\\PwSG_25L_01193080_WinAPI-Lab2\\lab3\\lab3\\x64\\Debug\\app_s.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "app_s.h",
+                    "source-path": "d:\\pulpit\\4 sem\\programming in graphical enviromnetal\\pwsg_25l_01193080_winapi-lab2\\lab3\\lab3\\app_s.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
